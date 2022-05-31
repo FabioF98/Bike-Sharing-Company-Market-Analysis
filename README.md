@@ -4,9 +4,9 @@ This exploratory data analysis using R language was created as the capstone proj
 
 <p align = "center">
   <img
-       width = "300"
+       width = "800"
        height = "300"
-       scr = "./cyclistic.jpg"
+       src = "./cyclistic.png"
        
   >
   </p>
